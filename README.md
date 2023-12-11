@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luigi Escalante
 - 👀 Ingeniero de software con conocimientos en seguridad informática. Fanático del anime y el café.
-- 🌱 Experiencia con tecnologias Linux, PHP, Golang y Java.
+- 🌱 Experiencia con tecnologias Linux, PHP, Golang y Python.
 - 💞️ Me gustan los proyectos enfocados a seguridad informatica.
 - 📫 Twitter: @luigi_escalante Email: luigi.escalante@gmail.com
 
