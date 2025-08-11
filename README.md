@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luigi Escalante
-- 👀 Ingeniero de software con conocimientos en seguridad informática. Fanático del anime y el café.
-- 🌱 Experiencia con tecnologias Linux, PHP, Golang y Python.
-- 💞️ Me gustan los proyectos enfocados a seguridad informatica.
-- 📫 Twitter: @luigi_escalante Email: luigi.escalante@gmail.com
+👀 I'm a software engineer with knowledge in cybersecurity. I'm a fan of anime and coffee.
+🌱 I have experience with Linux, PHP, Golang, and Python.
+💞️ I like projects focused on cybersecurity.
+📫 Twitter: @luigi_escalante Email: luigi.escalante[at]gmail.com"
 
 <!---
 luigiescalante/luigiescalante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
